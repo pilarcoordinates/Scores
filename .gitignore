@@ -1,6 +1,12 @@
 # META-INF und Thumbnails Ordner
-META-INF/
-Thumbnails/
+#META-INF/
+#Thumbnails/
 
 # Alle .json Dateien
-*.json
+#*.json
+
+# binaere MuseScore Dateien
+*.mscz
+
+#.backup Ordner
+
