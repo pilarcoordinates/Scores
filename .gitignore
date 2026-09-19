@@ -4,3 +4,9 @@
 
 # Alle .json Dateien
 #*.json
+
+# binaere MuseScore Dateien
+*.mscz
+
+#.backup Ordner
+
