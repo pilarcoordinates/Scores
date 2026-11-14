@@ -51,17 +51,16 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violoncellos",
-                        "musePack": "Muse Strings",
-                        "museUID": "94",
-                        "museVendorName": "Muse",
-                        "playbackSetupData": "strings.violoncello.orchestral:section"
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Grand Piano",
+                        "presetProgram": "0",
+                        "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "94",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "MuseSounds"
+                    "id": "MS Basic\\0\\0",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
@@ -81,7 +80,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -11.300000190734863
+                "volumeDb": 0
             },
             "partId": "2",
             "soloMuteState": {
@@ -121,17 +120,16 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violas",
-                        "musePack": "Muse Strings",
-                        "museUID": "93",
-                        "museVendorName": "Muse",
-                        "playbackSetupData": "strings.viola.orchestral:section"
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Grand Piano",
+                        "presetProgram": "0",
+                        "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "93",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "MuseSounds"
+                    "id": "MS Basic\\0\\0",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
@@ -151,7 +149,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 2
+                "volumeDb": 0.699999988079071
             },
             "partId": "1",
             "soloMuteState": {
