@@ -21,6 +21,10 @@
                     }
                 },
                 "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
             }
         },
         {
@@ -29,6 +33,10 @@
                 "fxChain": {
                 },
                 "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
             }
         }
     ],
@@ -44,14 +52,14 @@
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Strings",
-                        "museName": "Violoncello (Solo)",
+                        "museName": "Violoncellos",
                         "musePack": "Muse Strings",
-                        "museUID": "106",
+                        "museUID": "94",
                         "museVendorName": "Muse",
-                        "playbackSetupData": "strings.violoncello.orchestral"
+                        "playbackSetupData": "strings.violoncello.orchestral:section"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "106",
+                    "id": "94",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -73,7 +81,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -11.300000190734863
             },
             "partId": "2",
             "soloMuteState": {
@@ -103,21 +111,25 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "999"
+            "partId": "999",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Strings",
-                        "museName": "Viola (Solo)",
+                        "museName": "Violas",
                         "musePack": "Muse Strings",
-                        "museUID": "105",
+                        "museUID": "93",
                         "museVendorName": "Muse",
-                        "playbackSetupData": "strings.viola.orchestral"
+                        "playbackSetupData": "strings.viola.orchestral:section"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "105",
+                    "id": "93",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "MuseSounds"
                 },
@@ -139,7 +151,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 2
             },
             "partId": "1",
             "soloMuteState": {
