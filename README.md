@@ -1,4 +1,4 @@
-# Scores
+# Anleitung zum Arbeiten mit diesem Repo
 
 Arrangements und Kompositionen mit MuseScore4 im .mscx Format, die mit git verwaltet werden.
 
@@ -28,5 +28,3 @@ git clone https://github.com/pilarcoordinates/Scores.git
 	- das Verzeichnis Thumbnails/ 
 7. Änderungen committen: `git commit -m "[commit_message]" `
 8. Branch pushen: `git push origin [branch_name] `
-
-
