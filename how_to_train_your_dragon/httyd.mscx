@@ -2269,6 +2269,11 @@
             <subtype>fermataAbove</subtype>
             <eid>vbpfL/l1n/O_NbOpqPtMbhJ</eid>
             </Fermata>
+          <StaffText>
+            <eid>XLskxi5Y5jD_ob0/RkkxpcM</eid>
+            <offset x="-6.36125" y="-4.95509"/>
+            <text>Noch Akkord dahinter</text>
+            </StaffText>
           <Rest>
             <eid>Go4aUYl1uzN_vGGPlh2v07B</eid>
             <durationType>measure</durationType>
@@ -5499,10 +5504,30 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>E6EvKDKF1uB_tfzbwarbTpI</eid>
-            <durationType>quarter</durationType>
-            </Rest>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            <eid>W7O9W6J0mLN_dvD9vjc6o6F</eid>
+            </Dynamic>
+          <Chord>
+            <eid>leS5cjL3fC_rBQeNGuUggM</eid>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>fs+cqPTx7SC_Mb+wUXgxjbG</eid>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>v31IDtb0TeO_keRLk1pG6eG</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>hz03l/OO8FC_kfbYxFJWwrH</eid>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -9263,6 +9288,10 @@
             <velocity>40</velocity>
             <eid>xEnqV5MqLH_ot1S9dFQ8bC</eid>
             </Dynamic>
+          <StaffText>
+            <eid>aoevzcEhXJI_YJLHm33fVDI</eid>
+            <text>Flying theme nochmal ganz und Akkorde dazwischen</text>
+            </StaffText>
           <Rest>
             <eid>LlOKmaNrWLE_Px+QLJAwLYG</eid>
             <visible>0</visible>
@@ -14200,77 +14229,67 @@
       <Measure>
         <voice>
           <Chord>
-            <eid>TfoeCcuDtcC_/Gl0Uv8XrOH</eid>
+            <eid>2BS24bIC1FG_VXhnSYIKUmI</eid>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>EXCu1ucmWZC_m1mPmak1ryF</eid>
+              <eid>JxEregEoz/I_OgJzAYWPJwJ</eid>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>fZwOQo/FedD_cY+2YCKgBvF</eid>
+            <eid>ZhFcqg9hgMP_KC4xjSeyHFJ</eid>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>TI8Coi1DIEM_lVbRXGQqrl</eid>
+              <eid>NNf/QRpv/GJ_JJYWigQZbRF</eid>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>P/URrtRoKmH_RTEu+yrd6OH</eid>
+            <eid>497M2kJzKKE_HNGf2X/b3XJ</eid>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>mhnYe9cFKoH_/Ob5uJ0dSQC</eid>
+              <eid>otYXwDTobiO_Ye14uyb0OlE</eid>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>tbLj0czH/JL_pHvZZftf4dO</eid>
+            <eid>uQz9wEoAUlH_EY48DZ5hgSK</eid>
             <durationType>eighth</durationType>
             <Note>
-              <eid>KN1q3r2SPBO_8R5QTJd7dmG</eid>
+              <eid>cwlFi1Ws/IH_DQbCvXRwViE</eid>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>Vjc7ZMPrcEM_WWSmTKeQOEM</eid>
+            <eid>ujI0CYgIEAL_PSI5oxAwGsJ</eid>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>zTVKOqxXLzK_uwQ5pkGZL+J</eid>
+              <eid>Ei74ACLq+TK_QaiScM1TT9J</eid>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>EVmvQ6O8jlC_/s7QmYFQHvG</eid>
+            <eid>p+kEdbTBDwF_gNzcDW9/5gP</eid>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>rwGXrumtQYJ_hBetNsKg3RC</eid>
+              <eid>/bKnmt1VbRL_KHWlIrxWgcC</eid>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <eid>RIz70BI8hhC_FeGYCp5D7MB</eid>
-            <BeamMode>mid</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <eid>Ivzc2JLTMoK_/ZIcJIpvd0G</eid>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
               </Note>
             </Chord>
           <Rest>
-            <eid>ea32orBF9mG_eCj5yoO10DH</eid>
-            <durationType>eighth</durationType>
+            <eid>u50Uw5UBpCO_K2zC2mBdGMJ</eid>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
