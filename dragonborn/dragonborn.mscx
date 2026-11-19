@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.70">
-  <programVersion>4.7.5</programVersion>
-  <programRevision>3654226</programRevision>
+  <programVersion>4.7.6</programVersion>
+  <programRevision>96480d5</programRevision>
   <Score>
     <eid>AiENpPmtIEH_d0+Mxh5d9EH</eid>
     <Division>480</Division>
@@ -11310,7 +11310,7 @@
             <text>arco</text>
             </PlayTechAnnotation>
           <Dynamic>
-            <subtype>mf</subtype>
+            <subtype>mp</subtype>
             <velocity>80</velocity>
             <eid>9fs5S1mWUZE_gI1MrhIqCAM</eid>
             </Dynamic>
