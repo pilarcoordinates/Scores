@@ -3,9 +3,17 @@
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
     <rootfile full-path="httyd.mscx"/>
+    <rootfile full-path="Excerpts/0_Violas_(section)/0_Violas_(section).mss"/>
+    <rootfile full-path="Excerpts/0_Violas_(section)/0_Violas_(section).mscx"/>
+    <rootfile full-path="Excerpts/1_Violoncellos_(section)/1_Violoncellos_(section).mss"/>
+    <rootfile full-path="Excerpts/1_Violoncellos_(section)/1_Violoncellos_(section).mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="automation.json"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Violas_(section)/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Violas_(section)/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_Violoncellos_(section)/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Violoncellos_(section)/audiosettings.json"/>
     </rootfiles>
   </container>

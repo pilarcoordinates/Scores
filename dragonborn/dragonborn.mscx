@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.70">
-  <programVersion>4.7.6</programVersion>
-  <programRevision>96480d5</programRevision>
+  <programVersion>4.7.5</programVersion>
+  <programRevision>3654226</programRevision>
   <Score>
     <eid>AiENpPmtIEH_d0+Mxh5d9EH</eid>
     <Division>480</Division>
@@ -3806,6 +3806,10 @@
           <Chord>
             <eid>RtnlR9+JmzB_BLIod7zaXGP</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>2aC9AFwi4aC_IXJEd3nMGmM</eid>
+              </Articulation>
             <Note>
               <eid>aWX+z17hEsK_KMP69gBrU5O</eid>
               <pitch>68</pitch>
@@ -3815,6 +3819,10 @@
           <Chord>
             <eid>nuh6kh2OQgO_Zy/6LogB6HN</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>u9NiAjdacbB_UaqqTiVgbHD</eid>
+              </Articulation>
             <Note>
               <eid>wSa31V/xwsK_cZwgLI0mmUN</eid>
               <pitch>70</pitch>
@@ -3843,6 +3851,10 @@
           <Chord>
             <eid>Hpr/7mrFvKK_/WQ6Ol3Sj0J</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>KA1r7oT/0nK_5nic6HwtkL</eid>
+              </Articulation>
             <Note>
               <eid>3hI6sFXlAsJ_szoUbn0g3SP</eid>
               <pitch>71</pitch>
@@ -3852,6 +3864,10 @@
           <Chord>
             <eid>GZK/2Hoa3FJ_h313Z7tBLoL</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>G7FF5tlFfx_phzEpfXGaQM</eid>
+              </Articulation>
             <Note>
               <eid>Cz0ZegjVloJ_PsbmYkK7UiG</eid>
               <pitch>70</pitch>
@@ -3871,6 +3887,10 @@
           <Chord>
             <eid>eycB14TtzIG_QCE00CnS1+D</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>Lbf8g3iamAO_GyM3Ewm/DDI</eid>
+              </Articulation>
             <Note>
               <eid>QAGj+0au5JJ_aiK2+QVkKRB</eid>
               <pitch>70</pitch>
@@ -3880,6 +3900,10 @@
           <Chord>
             <eid>x79bbt+zwSJ_z+vE3cD2KII</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              <eid>BSQ7F2LniuJ_+D6qpYGgOvK</eid>
+              </Articulation>
             <Note>
               <eid>fNxOwQJMZPB_jKJFagYZOcN</eid>
               <pitch>71</pitch>
@@ -3894,6 +3918,10 @@
           <Chord>
             <eid>BKe8BZTd26C_AlIRGhqUP9H</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>Sg3YMizTSPN_o7wLA/f17LO</eid>
+              </Articulation>
             <Note>
               <eid>QXXfZMzcNOK_DelPtuAhiJP</eid>
               <pitch>73</pitch>
@@ -3903,6 +3931,10 @@
           <Chord>
             <eid>ODVNRiqlSlH_0zZlo1/85H</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>zO3F37F+LKG_kegXPOeMf6D</eid>
+              </Articulation>
             <Note>
               <eid>0HgqLM12yIK_c4DLxMjrCxP</eid>
               <pitch>71</pitch>
@@ -3922,6 +3954,10 @@
           <Chord>
             <eid>aO4Intd8SeK_npzvZHHoDIJ</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>JkMw+WyQQaC_XvcKEEntq+P</eid>
+              </Articulation>
             <Note>
               <eid>cA5DVDi2V+M_9c3uQkCVmTE</eid>
               <pitch>71</pitch>
@@ -3931,6 +3967,10 @@
           <Chord>
             <eid>jEsBjBWxMFB_M3+yJPb3laC</eid>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <eid>UJ8VdOA2dRH_DmOfLQL8AjJ</eid>
+              </Articulation>
             <Note>
               <eid>6PqZGaVrky_zw7iWm5BY5L</eid>
               <pitch>73</pitch>
